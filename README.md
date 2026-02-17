@@ -1,5 +1,7 @@
 # 🛡️ Vigilant
 
+Le code du bot sera publié une fois terminé.
+
 **Vigilant** est une solution de sécurité collaborative pour Discord, spécialisée dans la lutte contre le spam d'invitations et les raids automatisés. 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
